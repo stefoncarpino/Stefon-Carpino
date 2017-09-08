@@ -1,13 +1,13 @@
 # Ebb and Flow
 ## Work in Progress
 
-- [Draft](#draft)
+- [Summary](#summary)
 - [Revision](#revision)
 - [Best Practices](#best-practices)
 
 - - -
 
-# Draft
+# Summary
 
 This is a paragraph.
 
