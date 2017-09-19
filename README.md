@@ -2,7 +2,7 @@
 ## Summary by Steven Rudin
 
 - [Summary](#summary)
-- [Revision](#revision)
+- [About the Author](#about-the-author)
 - [Best Practices](#best-practices)
 
 - - -
