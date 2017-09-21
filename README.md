@@ -1,10 +1,10 @@
 # A Dao of Web Design
-## By [John Allsopp](https://alistapart.com/author/johnallsopp)
+## By [John Allsopp](https://alistapart.com/author/johnallsopp) April 7, 2000
 
-## Summary by Steven Rudin
+## Summary by [Steven Rudin](#about-the-author) September 9, 2017
 
 - [Summary](#summary)
-- [About the Author](#about-the-author)
+- [Revision](#revision)
 - [Best Practices](#best-practices)
 
 - - -
