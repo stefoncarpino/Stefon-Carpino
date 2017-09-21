@@ -9,6 +9,8 @@
 
 - - -
 
+![image for summary](img/HeSlimedMe.jpg)
+
 # Summary
 
 
@@ -21,8 +23,6 @@ Many new mediums are discovered, but we base the execution of those new mediums 
 Steven Rudin is a graphic design student at Montserrat College of Art in Beverly, Massachusettes. He is currently in his sophomore year. His style of design leans towards either old victorian style or retro 1950's-1970's. He designs apperal, logos, and posters using these styles. Aside from his life as a designer, he is also a working magician. He spends his weekends at King Richard's Faire in Carver, Massachusetts. He also performs street magic in Beverly, Salem, Boston, and Wareham, Massachusetts. He spends his leisure time at the beach, reading, watching old sci-fi movies, playing games on his xbox, and creating art.    
  
  
-
-![image for summary](img/HeSlimedMe.jpg)
 
 # Best Practices
 ### Naming (Conventions) Things
