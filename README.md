@@ -1,4 +1,6 @@
 # A Dao of Web Design
+## By [John Allsopp] (https://alistapart.com/author/johnallsopp)
+
 ## Summary by Steven Rudin
 
 - [Summary](#summary)
