@@ -4,7 +4,7 @@
 ## Summary by [Steven Rudin](#about-the-author) September 9, 2017
 
 - [Summary](#summary)
-- [Revision](#revision)
+- [About the Author](#about-the-author)
 - [Best Practices](#best-practices)
 
 - - -
