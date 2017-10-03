@@ -9,7 +9,7 @@
 
 - - -
 
-![image for summary](img/HeSlimedMe.jpg)
+![image for summary](img/Cornell.jpg)
 
 # Summary
 
