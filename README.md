@@ -19,7 +19,7 @@ Many new mediums are discovered, but we base the execution of those new mediums 
 
 ---
 
-![image for summary](img/FullSizeRender (2).jpg)
+![image for summary](img/FullSizeRender(2).jpg)
 
 # About the Author
 
