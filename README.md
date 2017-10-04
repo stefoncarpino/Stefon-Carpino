@@ -6,6 +6,7 @@
 - [Summary](#summary)
 - [About the Author](#about-the-author)
 - [Best Practices](#best-practices)
+- [Final Edits](#final-edits)
 
 - - -
 
@@ -41,3 +42,8 @@ Steven Rudin is a graphic design student at Montserrat College of Art in Beverly
   - index.md
   - index.html
   - img/
+  
+  
+ # Final Edits
+ - [index.html](https://stefoncarpino.github.io/summary/)
+ - main.css
