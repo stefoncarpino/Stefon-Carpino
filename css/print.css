@@ -1,0 +1,15 @@
+body{
+  fomt-size: 75%;
+  width: 7.5in
+  max width: none;
+  }
+
+figure.artwork img {
+  max-width: 5in;
+  }
+
+h2,
+section.author {
+  display: none;
+  }
+
